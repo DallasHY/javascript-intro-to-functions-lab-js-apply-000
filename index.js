@@ -18,7 +18,6 @@ function sayHiToGrandma(string) {
   if (string.UpperCase() === string ) {
     return "YES INDEED!"
   }
-  if (string.LowerCase() === string) {
-    return "I can't hear you!"
+  else if (string === )
   }
 }
