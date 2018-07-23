@@ -7,6 +7,6 @@ function whisper(string) {
 }
 
 function logShout(string) {
-  return
+  return string
 }
 console.log(logShout);
