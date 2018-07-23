@@ -15,5 +15,5 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-  if (string.UpperCase === )
+  if (string.UpperCase() ===  )
 }
